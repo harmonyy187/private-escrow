@@ -50,6 +50,7 @@ Amounts remain encrypted throughout - only participants can decrypt via EIP-712 
 ## Tech Stack
 
 - Zama FHEVM v0.9.1 / Solidity
+- Zama relayer-sdk 0.3.0-5
 - Hardhat / TypeScript
 - React / Vite / ethers.js
 
