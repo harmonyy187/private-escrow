@@ -2,7 +2,7 @@
 
 Privacy-preserving escrow protocol using Zama FHEVM. Transaction amounts are encrypted on-chain using Fully Homomorphic Encryption.
 
-https://github.com/user-attachments/assets/26fb0ab4-32ee-4780-9b36-2bd29085a3b2
+[![Watch the demo](https://i3.ytimg.com/vi/vFfbU3svPpU/maxresdefault.jpg)](https://www.youtube.com/watch?v=vFfbU3svPpU)
 
 ## Deployed Contracts (Sepolia)
 
